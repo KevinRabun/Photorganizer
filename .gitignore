@@ -1,0 +1,90 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+*.user
+*.aps
+*.ncb
+*.opendb
+*.suo
+*.sln.docstates
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# GhostDoc files
+Documentation/
+
+# NuGet packages
+packages/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Build Results of an ATL Project
+[Dd]ebugPS/
+[Rr]eleasePS/
+dlldata.c
+
+# WiX files
+*.wixproj
+
+# Installshield output folder
+[Ee]xpress/
+
+# DocProject file
+**/*.DocProject
+
+# Click-Once manifests (publishing)
+publish/
+
+# Publish Web Output
+*.Publish.xml
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+
+# Managed Binary Files (dll)
+*.dll
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Web deployment build output
+*.csproj.deploy
+
+# Microsoft Azure Build Output
+csx/
+*.build.csdef
+
+# Windows Store app package directory
+AppPackages/
+
+# Others 
+[Tt]humbs.db 
+*.[Cc]ache 
+Ankh.NoLoad 
+ReSharper*/ 
+[Tt]est[Rr]esult* 
+[Bb]uild[Ll]og.* 
+*.[Pp]ublish.xml 
+*.[Pp]db 
+*.[Ss]uo 
+*.[Cc]sproj.user 
